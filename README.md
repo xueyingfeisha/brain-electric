@@ -1,2 +1,3 @@
-# brain-electric
-Mainly some algorithms for EEG
+＃脑电
+没怎么用过的github上上上上上，遇到很多的问题
+这是我建立的第二个分支
